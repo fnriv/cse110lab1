@@ -15,7 +15,7 @@ Table of Contents
 
 ## About me 
 <p align="center">
-  <img src=justFaith.jpeg width="200">
+  <img src="justFaith.jpeg" width="200">
 </p>
 
 Hi! My name is **Faith Rivera** and I am a second year here at UCSD, Sixth College. More about school and I later, but here's more about the girl behind her code.
@@ -24,7 +24,7 @@ I was born and raised in San Diego, and I actually have a twin sister here at UC
 
 
 <p align="center">
-  <img src=fng.jpeg width="200">
+  <img src="fng.jpeg" width="200">
 </p>
 
 *Grace isn't the biggest fan of code, so she left that job to me. I leave the bio stuff to her.*
