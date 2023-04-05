@@ -5,6 +5,13 @@
   <img src="https://wallpapercave.com/uwp/uwp1772743.gif" width="2800">
 </p>
 
+Table of Contents
+- [Faith's User Page](#faiths-user-page)
+    - [CSE 110 (Powell SP 23)](#cse-110-powell-sp-23)
+  - [About me](#about-me)
+  - [My academic/coding journey](#my-academiccoding-journey)
+  - [CSE 110 and I](#cse-110-and-i)
+
 
 ## About me 
 <p align="center">
@@ -13,6 +20,8 @@
 
 Hi! My name is **Faith Rivera** and I am a second year here at UCSD, Sixth College. More about school and I later, but here's more about the girl behind her code.
 I was born and raised in San Diego, and I actually have a twin sister here at UCSD on the premed track- her name is Grace. We're actually roomates here on campus. Here's a photo of us when we were little- you can guess who is who. 
+
+
 
 <p align="center">
   <img src=fng.jpeg width="200">
